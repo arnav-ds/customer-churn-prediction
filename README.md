@@ -1,7 +1,7 @@
 # Customer Churn Prediction Project
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Overview
 
@@ -81,7 +81,7 @@ The core of this project is the Jupyter Notebook, which encompasses the followin
 
 ## Dataset
 
-This project assumes the use of a customer churn dataset in CSV format (`your_dataset.csv`). The dataset should contain features relevant to customer behavior and a target variable indicating whether a customer has churned or not. (You can optionally mention the source of a public dataset you used if applicable).
+This project assumes the use of a customer churn dataset in CSV format (`your_dataset.csv`)(Telco Customer Churn dataset from Kaggle). The dataset should contain features relevant to customer behavior and a target variable indicating whether a customer has churned or not.
 
 ## Potential Improvements and Next Steps
 
